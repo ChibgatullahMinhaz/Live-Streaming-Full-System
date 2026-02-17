@@ -202,3 +202,18 @@ This platform is designed as a scalable, secure, and revenue-driven digital ente
 - Multi-Level Admin & Agency Management
 
 The architecture ensures high performance, real-time interaction, financial security, and global scalability while supporting millions of concurrent users.
+
+
+
+# Tech Stack Evaluation
+
+## Selected Stack
+- React.js – Portal Frontend (Admin / Agency / Seller)
+- Node.js + Express.js – Backend API
+- TypeScript – Type-safe development
+- MongoDB – Primary Database
+- Mongoose ODM – Data Modeling
+- Redis – Caching & Pub/Sub
+- Socket.io – Real-Time Communication
+- ZegoCloud – Live Streaming & Audio SDK
+- Firebase Authentication / other Auth Provider
