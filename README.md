@@ -217,3 +217,4 @@ The architecture ensures high performance, real-time interaction, financial secu
 - Socket.io – Real-Time Communication
 - ZegoCloud – Live Streaming & Audio SDK
 - Firebase Authentication / other Auth Provider
+- jwt 
